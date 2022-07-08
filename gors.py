@@ -8,7 +8,7 @@ print('''
 / _` /  \ |__) /__` 
 \__> \__/ |  \ .__/ 
 
-GitHub Organization Repo Scanner by @thwinhtet_                    
+GitHub Organization Repositories Scanner by @thwinhtet_                    
 	''')
 if len(sys.argv) == 1:
 	print('Usage : python3 gors.py <OrgName>')
